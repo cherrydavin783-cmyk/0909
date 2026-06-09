@@ -1,12 +1,2 @@
-.venv/
-__pycache__/
-*.py[cod]
-.pytest_cache/
-*.egg-info/
-
-data/*.csv
-data/*.xml
-!data/news.example.csv
-!data/cross_assets.example.csv
-reports/*
-!reports/.gitkeep
+# Created by pytest automatically.
+*

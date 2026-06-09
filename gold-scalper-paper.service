@@ -1,0 +1,16 @@
+[Unit]
+Description=Gold Scalper paper signals with Telegram notifications
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/root/gold-scalper
+EnvironmentFile=/root/gold-scalper/.env
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/root/gold-scalper/.venv/bin/gold-scalper paper --config configs/high_frequency_025_price_aggressive_vps_ibkr.yaml --max-cycles 0
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

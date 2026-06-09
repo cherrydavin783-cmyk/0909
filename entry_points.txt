@@ -1,0 +1,2 @@
+[console_scripts]
+gold-scalper = gold_scalper.cli:main

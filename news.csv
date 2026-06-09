@@ -1,0 +1,197 @@
+time,currency,impact,event
+2021-05-20T02:00:00+08:00,USD,high,FOMC Minutes
+2021-06-04T20:30:00+08:00,USD,high,Employment Situation
+2021-06-10T20:30:00+08:00,USD,high,Consumer Price Index
+2021-06-17T02:00:00+08:00,USD,high,FOMC Statement
+2021-07-02T20:30:00+08:00,USD,high,Employment Situation
+2021-07-08T02:00:00+08:00,USD,high,FOMC Minutes
+2021-07-13T20:30:00+08:00,USD,high,Consumer Price Index
+2021-07-29T02:00:00+08:00,USD,high,FOMC Statement
+2021-08-06T20:30:00+08:00,USD,high,Employment Situation
+2021-08-11T20:30:00+08:00,USD,high,Consumer Price Index
+2021-08-19T02:00:00+08:00,USD,high,FOMC Minutes
+2021-09-03T20:30:00+08:00,USD,high,Employment Situation
+2021-09-14T20:30:00+08:00,USD,high,Consumer Price Index
+2021-09-23T02:00:00+08:00,USD,high,FOMC Statement
+2021-10-08T20:30:00+08:00,USD,high,Employment Situation
+2021-10-13T20:30:00+08:00,USD,high,Consumer Price Index
+2021-10-14T02:00:00+08:00,USD,high,FOMC Minutes
+2021-11-04T02:00:00+08:00,USD,high,FOMC Statement
+2021-11-05T20:30:00+08:00,USD,high,Employment Situation
+2021-11-10T21:30:00+08:00,USD,high,Consumer Price Index
+2021-11-25T03:00:00+08:00,USD,high,FOMC Minutes
+2021-12-03T21:30:00+08:00,USD,high,Employment Situation
+2021-12-10T21:30:00+08:00,USD,high,Consumer Price Index
+2021-12-16T03:00:00+08:00,USD,high,FOMC Statement
+2022-01-06T03:00:00+08:00,USD,high,FOMC Minutes
+2022-01-07T21:30:00+08:00,USD,high,Employment Situation
+2022-01-12T21:30:00+08:00,USD,high,Consumer Price Index
+2022-01-27T03:00:00+08:00,USD,high,FOMC Statement
+2022-02-04T21:30:00+08:00,USD,high,Employment Situation
+2022-02-10T21:30:00+08:00,USD,high,Consumer Price Index
+2022-02-17T03:00:00+08:00,USD,high,FOMC Minutes
+2022-03-04T21:30:00+08:00,USD,high,Employment Situation
+2022-03-10T21:30:00+08:00,USD,high,Consumer Price Index
+2022-03-17T02:00:00+08:00,USD,high,FOMC Statement
+2022-04-01T20:30:00+08:00,USD,high,Employment Situation
+2022-04-07T02:00:00+08:00,USD,high,FOMC Minutes
+2022-04-12T20:30:00+08:00,USD,high,Consumer Price Index
+2022-05-05T02:00:00+08:00,USD,high,FOMC Statement
+2022-05-06T20:30:00+08:00,USD,high,Employment Situation
+2022-05-11T20:30:00+08:00,USD,high,Consumer Price Index
+2022-05-26T02:00:00+08:00,USD,high,FOMC Minutes
+2022-06-03T20:30:00+08:00,USD,high,Employment Situation
+2022-06-10T20:30:00+08:00,USD,high,Consumer Price Index
+2022-06-16T02:00:00+08:00,USD,high,FOMC Statement
+2022-07-07T02:00:00+08:00,USD,high,FOMC Minutes
+2022-07-08T20:30:00+08:00,USD,high,Employment Situation
+2022-07-13T20:30:00+08:00,USD,high,Consumer Price Index
+2022-07-28T02:00:00+08:00,USD,high,FOMC Statement
+2022-08-05T20:30:00+08:00,USD,high,Employment Situation
+2022-08-10T20:30:00+08:00,USD,high,Consumer Price Index
+2022-08-18T02:00:00+08:00,USD,high,FOMC Minutes
+2022-09-02T20:30:00+08:00,USD,high,Employment Situation
+2022-09-13T20:30:00+08:00,USD,high,Consumer Price Index
+2022-09-22T02:00:00+08:00,USD,high,FOMC Statement
+2022-10-07T20:30:00+08:00,USD,high,Employment Situation
+2022-10-13T02:00:00+08:00,USD,high,FOMC Minutes
+2022-10-13T20:30:00+08:00,USD,high,Consumer Price Index
+2022-11-03T02:00:00+08:00,USD,high,FOMC Statement
+2022-11-04T20:30:00+08:00,USD,high,Employment Situation
+2022-11-10T21:30:00+08:00,USD,high,Consumer Price Index
+2022-11-24T03:00:00+08:00,USD,high,FOMC Minutes
+2022-12-02T21:30:00+08:00,USD,high,Employment Situation
+2022-12-13T21:30:00+08:00,USD,high,Consumer Price Index
+2022-12-15T03:00:00+08:00,USD,high,FOMC Statement
+2023-01-05T03:00:00+08:00,USD,high,FOMC Minutes
+2023-01-06T21:30:00+08:00,USD,high,Employment Situation
+2023-01-12T21:30:00+08:00,USD,high,Consumer Price Index
+2023-02-03T21:30:00+08:00,USD,high,Employment Situation
+2023-02-14T21:30:00+08:00,USD,high,Consumer Price Index
+2023-03-10T21:30:00+08:00,USD,high,Employment Situation
+2023-03-14T20:30:00+08:00,USD,high,Consumer Price Index
+2023-03-23T02:00:00+08:00,USD,high,FOMC Statement
+2023-04-07T20:30:00+08:00,USD,high,Employment Situation
+2023-04-12T20:30:00+08:00,USD,high,Consumer Price Index
+2023-04-13T02:00:00+08:00,USD,high,FOMC Minutes
+2023-05-04T02:00:00+08:00,USD,high,FOMC Statement
+2023-05-05T20:30:00+08:00,USD,high,Employment Situation
+2023-05-10T20:30:00+08:00,USD,high,Consumer Price Index
+2023-05-25T02:00:00+08:00,USD,high,FOMC Minutes
+2023-06-02T20:30:00+08:00,USD,high,Employment Situation
+2023-06-13T20:30:00+08:00,USD,high,Consumer Price Index
+2023-06-15T02:00:00+08:00,USD,high,FOMC Statement
+2023-07-06T02:00:00+08:00,USD,high,FOMC Minutes
+2023-07-07T20:30:00+08:00,USD,high,Employment Situation
+2023-07-12T20:30:00+08:00,USD,high,Consumer Price Index
+2023-07-27T02:00:00+08:00,USD,high,FOMC Statement
+2023-08-04T20:30:00+08:00,USD,high,Employment Situation
+2023-08-10T20:30:00+08:00,USD,high,Consumer Price Index
+2023-08-17T02:00:00+08:00,USD,high,FOMC Minutes
+2023-09-01T20:30:00+08:00,USD,high,Employment Situation
+2023-09-02T02:00:00+08:00,USD,high,FOMC Statement
+2023-09-13T20:30:00+08:00,USD,high,Consumer Price Index
+2023-09-21T02:00:00+08:00,USD,high,FOMC Statement
+2023-10-06T20:30:00+08:00,USD,high,Employment Situation
+2023-10-12T02:00:00+08:00,USD,high,FOMC Minutes
+2023-10-12T20:30:00+08:00,USD,high,Consumer Price Index
+2023-11-03T20:30:00+08:00,USD,high,Employment Situation
+2023-11-14T21:30:00+08:00,USD,high,Consumer Price Index
+2023-11-22T03:00:00+08:00,USD,high,FOMC Minutes
+2023-12-08T21:30:00+08:00,USD,high,Employment Situation
+2023-12-12T21:30:00+08:00,USD,high,Consumer Price Index
+2023-12-14T03:00:00+08:00,USD,high,FOMC Statement
+2024-01-04T03:00:00+08:00,USD,high,FOMC Minutes
+2024-01-05T21:30:00+08:00,USD,high,Employment Situation
+2024-01-11T21:30:00+08:00,USD,high,Consumer Price Index
+2024-02-01T03:00:00+08:00,USD,high,FOMC Statement
+2024-02-02T21:30:00+08:00,USD,high,Employment Situation
+2024-02-13T21:30:00+08:00,USD,high,Consumer Price Index
+2024-02-22T03:00:00+08:00,USD,high,FOMC Minutes
+2024-03-08T21:30:00+08:00,USD,high,Employment Situation
+2024-03-12T20:30:00+08:00,USD,high,Consumer Price Index
+2024-03-21T02:00:00+08:00,USD,high,FOMC Statement
+2024-04-05T20:30:00+08:00,USD,high,Employment Situation
+2024-04-10T20:30:00+08:00,USD,high,Consumer Price Index
+2024-04-11T02:00:00+08:00,USD,high,FOMC Minutes
+2024-05-02T02:00:00+08:00,USD,high,FOMC Statement
+2024-05-03T20:30:00+08:00,USD,high,Employment Situation
+2024-05-15T20:30:00+08:00,USD,high,Consumer Price Index
+2024-05-23T02:00:00+08:00,USD,high,FOMC Minutes
+2024-06-07T20:30:00+08:00,USD,high,Employment Situation
+2024-06-12T20:30:00+08:00,USD,high,Consumer Price Index
+2024-06-13T02:00:00+08:00,USD,high,FOMC Statement
+2024-07-04T02:00:00+08:00,USD,high,FOMC Minutes
+2024-07-05T20:30:00+08:00,USD,high,Employment Situation
+2024-07-11T20:30:00+08:00,USD,high,Consumer Price Index
+2024-08-01T02:00:00+08:00,USD,high,FOMC Statement
+2024-08-02T20:30:00+08:00,USD,high,Employment Situation
+2024-08-14T20:30:00+08:00,USD,high,Consumer Price Index
+2024-08-22T02:00:00+08:00,USD,high,FOMC Minutes
+2024-09-06T20:30:00+08:00,USD,high,Employment Situation
+2024-09-11T20:30:00+08:00,USD,high,Consumer Price Index
+2024-09-19T02:00:00+08:00,USD,high,FOMC Statement
+2024-10-04T20:30:00+08:00,USD,high,Employment Situation
+2024-10-10T02:00:00+08:00,USD,high,FOMC Minutes
+2024-10-10T20:30:00+08:00,USD,high,Consumer Price Index
+2024-11-01T20:30:00+08:00,USD,high,Employment Situation
+2024-11-08T03:00:00+08:00,USD,high,FOMC Statement
+2024-11-13T21:30:00+08:00,USD,high,Consumer Price Index
+2024-11-27T03:00:00+08:00,USD,high,FOMC Minutes
+2024-12-06T21:30:00+08:00,USD,high,Employment Situation
+2024-12-11T21:30:00+08:00,USD,high,Consumer Price Index
+2024-12-19T03:00:00+08:00,USD,high,FOMC Statement
+2025-01-09T03:00:00+08:00,USD,high,FOMC Minutes
+2025-01-10T21:30:00+08:00,USD,high,Employment Situation
+2025-01-15T21:30:00+08:00,USD,high,Consumer Price Index
+2025-01-30T03:00:00+08:00,USD,high,FOMC Statement
+2025-02-07T21:30:00+08:00,USD,high,Employment Situation
+2025-02-12T21:30:00+08:00,USD,high,Consumer Price Index
+2025-02-20T03:00:00+08:00,USD,high,FOMC Minutes
+2025-03-07T21:30:00+08:00,USD,high,Employment Situation
+2025-03-12T20:30:00+08:00,USD,high,Consumer Price Index
+2025-03-20T02:00:00+08:00,USD,high,FOMC Statement
+2025-04-04T20:30:00+08:00,USD,high,Employment Situation
+2025-04-10T02:00:00+08:00,USD,high,FOMC Minutes
+2025-04-10T20:30:00+08:00,USD,high,Consumer Price Index
+2025-05-02T20:30:00+08:00,USD,high,Employment Situation
+2025-05-08T02:00:00+08:00,USD,high,FOMC Statement
+2025-05-13T20:30:00+08:00,USD,high,Consumer Price Index
+2025-05-29T02:00:00+08:00,USD,high,FOMC Minutes
+2025-06-06T20:30:00+08:00,USD,high,Employment Situation
+2025-06-11T20:30:00+08:00,USD,high,Consumer Price Index
+2025-06-19T02:00:00+08:00,USD,high,FOMC Statement
+2025-07-03T20:30:00+08:00,USD,high,Employment Situation
+2025-07-10T02:00:00+08:00,USD,high,FOMC Minutes
+2025-07-15T20:30:00+08:00,USD,high,Consumer Price Index
+2025-07-31T02:00:00+08:00,USD,high,FOMC Statement
+2025-08-01T20:30:00+08:00,USD,high,Employment Situation
+2025-08-12T20:30:00+08:00,USD,high,Consumer Price Index
+2025-08-21T02:00:00+08:00,USD,high,FOMC Minutes
+2025-09-05T20:30:00+08:00,USD,high,Employment Situation
+2025-09-11T20:30:00+08:00,USD,high,Consumer Price Index
+2025-09-18T02:00:00+08:00,USD,high,FOMC Statement
+2025-10-09T02:00:00+08:00,USD,high,FOMC Minutes
+2025-10-24T20:30:00+08:00,USD,high,Consumer Price Index
+2025-10-30T02:00:00+08:00,USD,high,FOMC Statement
+2025-11-20T03:00:00+08:00,USD,high,FOMC Minutes
+2025-11-20T21:30:00+08:00,USD,high,Employment Situation
+2025-12-11T03:00:00+08:00,USD,high,FOMC Statement
+2025-12-16T21:30:00+08:00,USD,high,Employment Situation
+2025-12-18T21:30:00+08:00,USD,high,Consumer Price Index
+2025-12-31T03:00:00+08:00,USD,high,FOMC Minutes
+2026-01-09T21:30:00+08:00,USD,high,Employment Situation
+2026-01-13T21:30:00+08:00,USD,high,Consumer Price Index
+2026-01-29T03:00:00+08:00,USD,high,FOMC Statement
+2026-02-11T21:30:00+08:00,USD,high,Employment Situation
+2026-02-13T21:30:00+08:00,USD,high,Consumer Price Index
+2026-02-19T03:00:00+08:00,USD,high,FOMC Minutes
+2026-03-06T21:30:00+08:00,USD,high,Employment Situation
+2026-03-11T20:30:00+08:00,USD,high,Consumer Price Index
+2026-03-19T02:00:00+08:00,USD,high,FOMC Statement
+2026-04-03T20:30:00+08:00,USD,high,Employment Situation
+2026-04-09T02:00:00+08:00,USD,high,FOMC Minutes
+2026-04-10T20:30:00+08:00,USD,high,Consumer Price Index
+2026-04-30T02:00:00+08:00,USD,high,FOMC Statement
+2026-05-08T20:30:00+08:00,USD,high,Employment Situation
+2026-05-12T20:30:00+08:00,USD,high,Consumer Price Index

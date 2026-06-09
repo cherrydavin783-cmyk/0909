@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: gold-scalper
+Version: 0.1.0
+Summary: XAUUSD MT5 + Python backtest and paper-trading strategy system.
+Requires-Python: >=3.10
+Requires-Dist: numpy>=1.26
+Requires-Dist: pandas>=2.0
+Requires-Dist: PyYAML>=6.0
+Provides-Extra: mt5
+Requires-Dist: MetaTrader5>=5.0.4682; extra == "mt5"
+Provides-Extra: ibkr
+Requires-Dist: ibapi>=9.81.1.post1; extra == "ibkr"
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
