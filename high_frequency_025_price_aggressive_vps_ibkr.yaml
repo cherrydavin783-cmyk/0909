@@ -1,0 +1,130 @@
+data:
+  symbol: XAUUSD
+  bars_csv: data/xauusd_m1.csv
+  news_csv: data/news.csv
+  timezone: Asia/Shanghai
+  input_timezone: Asia/Shanghai
+  default_spread: 0.30
+  point: 0.01
+  contract_size: 100.0
+  live_source: ibkr
+  live_max_bar_age_minutes: 2
+
+cross_assets:
+  enabled: true
+  csv_path: data/cross_assets.csv
+  neutral_if_missing: true
+  block_on_conflict: false
+  require_confirmation: false
+  dxy_column: dxy
+  yield_column: us10y
+  momentum_lookback: 20
+  asof_tolerance_minutes: 4320
+  dxy_min_change: 0.05
+  yield_min_change: 0.01
+  required_components: 2
+
+indicators:
+  atr_period: 14
+  atr_quantile_lookback: 500
+  rsi_period: 14
+  ofi_window: 20
+  vpin_window: 50
+  vpin_quantile_lookback: 500
+  volume_window: 20
+  volume_spike_factor: 0.0
+  fair_value_window: 20
+  spread_window: 50
+
+strategies:
+  breakout:
+    enabled: true
+    asia_range_start: "06:00"
+    asia_range_end: "16:00"
+    trade_start: "20:00"
+    trade_end: "21:30"
+    min_asia_width: 25.0
+    min_rsi: 40.0
+    max_rsi: 60.0
+    stop_atr_multiple: 0.8
+    take_profit_atr_multiple: 2.4
+    max_holding_minutes: 10
+    max_daily_trades: 8
+  mean_reversion:
+    enabled: false
+  micro_scalp:
+    enabled: true
+    windows:
+      - ["20:00", "23:30"]
+    lookback: 8
+    min_asia_width: 40.0
+    min_rsi_long: 55.0
+    max_rsi_short: 45.0
+    min_ofi_abs: 3.0
+    max_vpin_quantile: 0.90
+    require_volume_spike: true
+    stop_atr_multiple: 0.45
+    take_profit_atr_multiple: 1.20
+    max_holding_minutes: 8
+    max_daily_trades: 12
+    risk_per_trade: 0.004
+
+filters:
+  toxic_vpin_quantile: 0.90
+  max_atr_abs: 15.0
+  max_atr_quantile: 0.95
+  max_spread_multiple: 1.5
+  max_spread_abs: 2.5
+  max_slippage_abs: 2.0
+  news_before_minutes: 15
+  news_after_minutes: 30
+  news_currencies: ["USD"]
+  news_impacts: ["high"]
+
+risk:
+  initial_equity: 10000.0
+  risk_per_trade: 0.03
+  profit_target_equity_pct: 0.0
+  profit_target_price_pct: 0.0
+  strategy_profit_target_price_pct:
+    micro_scalp: 0.0025
+  breakeven_trigger_price_pct: 0.0015
+  breakeven_buffer_points: 2.0
+  max_daily_drawdown: 0.03
+  min_volume: 0.01
+  max_volume: 10.0
+  volume_step: 0.01
+  commission_per_lot: 3.5
+  slippage_abs: 0.05
+  max_quote_gap_minutes: 10
+
+report:
+  output_dir: reports
+
+telegram:
+  enabled: true
+  bot_token_env: TELEGRAM_BOT_TOKEN
+  chat_id_env: TELEGRAM_CHAT_ID
+  timeout_seconds: 10
+  disable_notification: false
+
+mt5:
+  terminal_path:
+  live_trading_enabled: false
+  poll_seconds: 60
+  history_bars: 2000
+
+ibkr:
+  host: 127.0.0.1
+  port: 4002
+  client_id: 177
+  timeout_seconds: 30
+  duration: "2 D"
+  bar_size: "1 min"
+  what_to_show: MIDPOINT
+  use_rth: false
+  market_contract:
+    symbol: XAUUSD
+    secType: CMDTY
+    exchange: SMART
+    currency: USD
